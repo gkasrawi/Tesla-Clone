@@ -1,0 +1,24 @@
+@media (min-width: 768px) {
+  #interior {
+    width: 100%;
+    min-width: 100vh;
+  }
+}
+
+#interior {
+  width: 100%;
+  min-width: 60vh;
+}
+
+.container {
+  text-align: center;
+}
+
+#line {
+  width: 1px;
+  height: 200px;
+  background: rgba(255,255,255,0.42);
+  margin: 0 auto;
+  margin-top: -142px;
+}
+
